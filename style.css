@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: black;
+}
+
+#btn{
+    padding: 16px;
+    font-weight:900;
+    font-size: 30px;
+    background-color: rgb(221, 210, 210);
+    border-radius: 16px;
+    border-color: black ;
+    
+}
